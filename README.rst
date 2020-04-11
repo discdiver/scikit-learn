@@ -129,7 +129,7 @@ for more information.
 Submitting a Pull Request
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Before opening a Pull Request, have a look at the
+Before opening a Pull Request, please have a look at the
 full Contributing page to make sure your code complies
 with our guidelines: https://scikit-learn.org/stable/developers/index.html
 
